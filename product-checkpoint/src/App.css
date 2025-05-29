@@ -1,0 +1,12 @@
+.imgHello {
+  width: 200px;
+  margin-top: 10px;
+}
+#root {
+  width: 100%;
+  margin: 0;
+}
+.container {
+  min-width: 100%;
+  min-height: 100%;
+}
